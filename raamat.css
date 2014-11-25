@@ -1,0 +1,53 @@
+@page {
+    size: A5;
+    margin: 50pt 40pt;
+    font-family: Didot, Cochin;
+    font-size: 9pt;
+
+    @bottom {
+        content: counter(page);
+    }
+}
+
+html {
+    font-family: "Iowan Old Style";
+    font-size: 9pt;
+    line-height: 1.4;
+}
+
+p + h2 {
+    page-break-before: always;
+}
+
+h2 {
+    margin-top: 30em;
+    font-weight: normal;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
+p {
+    margin: 0;
+    text-align: justify;
+    hyphens: auto;
+}
+
+p + p {
+    text-indent: 1.5em;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+blockquote p + p {
+    margin-top: 1em;
+    font-style: normal;
+}
+
+hr {
+    content: "* * *";
+    border: none;
+    text-align: center;
+    margin: 1em;
+}
