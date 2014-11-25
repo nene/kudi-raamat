@@ -1,13 +1,25 @@
 @page {
-    size: A5;
-    margin: 50pt 40pt;
-    font-family: Didot, Cochin;
-    font-size: 9pt;
+    size: 369pt 594pt;
+    /* bleed: 9pt */
+    /* safe margin: top,bottom,outer: 18  inner: 45 */
+    /* My extra top/bottom: 20pt; */
+    /* My extra left/right: 10pt; */
+    margin: 47pt 37pt;
 
     @bottom {
+        font-family: "Iowan Old Style";
+        font-size: 9pt;
         content: counter(page);
     }
 }
+
+@page:left {
+    margin-right: 55pt;
+}
+@page:right {
+    margin-left: 55pt;
+}
+
 
 html {
     font-family: "Iowan Old Style";
