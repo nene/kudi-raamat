@@ -42,7 +42,8 @@ p + h2 {
 }
 
 h2 {
-    margin-top: 30em;
+    margin-top: 29.25em;
+    margin-bottom: 1em;
     font-weight: normal;
     font-size: 1em;
     text-transform: uppercase;
@@ -52,6 +53,8 @@ p {
     margin: 0;
     text-align: justify;
     hyphens: auto;
+    orphans: 1;
+    widows: 1;
 }
 
 p + p {
