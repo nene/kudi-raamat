@@ -1,10 +1,14 @@
+$bleed: 0pt; // Set to 9pt for final print; Set to 0 for visual testing.
+$safety-margin: 18pt;
+$safety-margin-inner: 45pt;
+$my-margin-vertical: 30pt;
+$my-margin-horizontal: 20pt;
+
 @page {
-    size: 369pt 594pt;
-    /* bleed: 9pt */
-    /* safe margin: top,bottom,outer: 18  inner: 45 */
-    /* My extra top/bottom: 20pt; */
-    /* My extra left/right: 10pt; */
-    margin: 47pt 37pt;
+    size: (360pt + $bleed) (576pt + 2*$bleed);
+
+    margin: $bleed + $safety-margin + $my-margin-vertical
+            $bleed + $safety-margin + $my-margin-horizontal;
 
     @bottom {
         font-family: "Iowan Old Style";
@@ -14,10 +18,10 @@
 }
 
 @page:left {
-    margin-right: 55pt;
+    margin-right: $safety-margin-inner + $my-margin-horizontal;
 }
 @page:right {
-    margin-left: 55pt;
+    margin-left: $safety-margin-inner + $my-margin-horizontal;
 }
 
 
