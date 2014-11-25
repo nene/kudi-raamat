@@ -1,3 +1,4 @@
 *.pdf
+*.css
 node_modules/
 
