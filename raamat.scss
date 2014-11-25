@@ -12,7 +12,9 @@ $my-margin-horizontal: 20pt;
 
     @bottom {
         font-family: "Iowan Old Style";
-        font-size: 9pt;
+        font-size: 8pt;
+        vertical-align: top;
+        margin-top: 1em;
         content: counter(page);
     }
 }
