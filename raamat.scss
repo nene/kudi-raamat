@@ -4,11 +4,15 @@ $safety-margin-inner: 45pt;
 $my-margin-vertical: 30pt;
 $my-margin-horizontal: 20pt;
 
-@page {
-    size: (360pt + $bleed) (576pt + 2*$bleed);
+$margin-vertical: $bleed + $safety-margin + $my-margin-vertical;
+$margin-horizontal: $bleed + $safety-margin + $my-margin-horizontal;
+//$margin-inner: $safety-margin-inner + $my-margin-horizontal; // For print
+$margin-inner: $margin-horizontal; // For visual testing let both margins be the same
 
-    margin: $bleed + $safety-margin + $my-margin-vertical
-            $bleed + $safety-margin + $my-margin-horizontal;
+@page {
+    size: (257pt + $margin-horizontal + $margin-inner) (480pt + 2*$margin-vertical);
+
+    margin: $margin-vertical $margin-horizontal;
 
     @bottom {
         font-family: "Iowan Old Style";
@@ -20,10 +24,10 @@ $my-margin-horizontal: 20pt;
 }
 
 @page:left {
-    margin-right: $safety-margin-inner + $my-margin-horizontal;
+    margin-right: $margin-inner;
 }
 @page:right {
-    margin-left: $safety-margin-inner + $my-margin-horizontal;
+    margin-left: $margin-inner;
 }
 
 
