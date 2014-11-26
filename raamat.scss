@@ -32,6 +32,7 @@ $margin-inner: $margin-horizontal; // For visual testing let both margins be the
 
 
 $line-height: 1.4em;
+$text-indent: 1.5em;
 
 html {
     font-family: "Iowan Old Style";
@@ -63,7 +64,13 @@ p {
 }
 
 p + p {
-    text-indent: 1.5em;
+    text-indent: $text-indent;
+}
+
+p.poem {
+    margin: $line-height 0;
+    text-indent: 0;
+    margin-left: $text-indent;
 }
 
 blockquote {
