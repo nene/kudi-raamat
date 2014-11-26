@@ -31,12 +31,12 @@ $margin-inner: $margin-horizontal; // For visual testing let both margins be the
 }
 
 
-$line-height: 1.4;
+$line-height: 1.4em;
 
 html {
     font-family: "Iowan Old Style";
     font-size: 9.5pt;
-    line-height: $line-height;
+    line-height: 1.4;
 }
 
 p + h2 {
@@ -44,8 +44,11 @@ p + h2 {
 }
 
 h2 {
-    margin-top: 29.25em;
-    margin-bottom: 1em;
+    // The page has 36 lines in total,
+    // place the heading one line above the middle
+    padding-top: 17 * $line-height;
+    margin-top: 0;
+    margin-bottom: $line-height;
     font-weight: normal;
     font-size: 1em;
     text-transform: uppercase;
@@ -65,10 +68,12 @@ p + p {
 
 blockquote {
     font-style: italic;
+    margin-top: $line-height;
+    margin-bottom: $line-height;
 }
 
 blockquote p + p {
-    margin-top: 1em;
+    margin-top: $line-height;
     font-style: normal;
 }
 
@@ -76,5 +81,5 @@ hr {
     content: "* * *";
     border: none;
     text-align: center;
-    margin: $line-height * 1em;
+    margin: $line-height;
 }
