@@ -31,10 +31,12 @@ $margin-inner: $margin-horizontal; // For visual testing let both margins be the
 }
 
 
+$line-height: 1.4;
+
 html {
     font-family: "Iowan Old Style";
     font-size: 9.5pt;
-    line-height: 1.4;
+    line-height: $line-height;
 }
 
 p + h2 {
@@ -74,5 +76,5 @@ hr {
     content: "* * *";
     border: none;
     text-align: center;
-    margin: 1em;
+    margin: $line-height * 1em;
 }
