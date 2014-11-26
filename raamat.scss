@@ -97,3 +97,82 @@ hr {
     position: relative;
     top: 0.2em;
 }
+
+@page picture {
+    margin: 0;
+
+    @bottom {
+        content: none;
+    }
+}
+
+@page empty {
+}
+
+@page algus {
+    background-repeat: no-repeat;
+    background-image: url(img/algus.jpg);
+    background-position: center;
+    background-size: cover;
+}
+@page tsoor {
+    background-repeat: no-repeat;
+    background-image: url(img/tsoor.jpg);
+    background-position: center;
+    background-size: cover;
+}
+@page kaev {
+    background-repeat: no-repeat;
+    background-image: url(img/kaev.jpg);
+    background-position: 25% center;
+    background-size: cover;
+}
+@page madruse-morsja {
+    background-repeat: no-repeat;
+    background-image: url(img/madruse-morsja.jpg);
+    background-position: center;
+    background-size: cover;
+}
+@page printsess-ja-vq {
+    background-repeat: no-repeat;
+    background-image: url(img/printsess-ja-vq.jpg);
+    background-position: 80% center;
+    background-size: cover;
+}
+@page taiuslik-lugu {
+    background-repeat: no-repeat;
+    background-image: url(img/taiuslik-lugu.jpg);
+    background-position: 80% center;
+    background-size: cover;
+}
+
+picture {
+    display: block;
+    page-break-before: always;
+    page-break-after: always;
+    page: picture;
+
+    &.empty {
+        page: empty;
+    }
+
+    &#algus {
+        page: algus;
+    }
+    &#tsoor {
+        page: tsoor;
+    }
+    &#kaev {
+        page: kaev;
+    }
+    &#madruse-morsja {
+        page: madruse-morsja;
+    }
+    &#printsess-ja-vq {
+        page: printsess-ja-vq;
+    }
+    &#taiuslik-lugu {
+        page: taiuslik-lugu;
+    }
+}
+
