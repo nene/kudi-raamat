@@ -30,13 +30,13 @@ $margin-inner: $margin-horizontal; // For visual testing let both margins be the
     margin-left: $margin-inner;
 }
 
-
-$line-height: 1.4em;
-$text-indent: 1.5em;
+$font-size: 9.5pt;
+$line-height: 1.4 * $font-size;
+$text-indent: 1.5 * $font-size;
 
 html {
     font-family: "Iowan Old Style";
-    font-size: 9.5pt;
+    font-size: $font-size;
     line-height: 1.4;
 }
 
@@ -83,6 +83,10 @@ blockquote {
 blockquote p + p {
     margin-top: $line-height;
     font-style: normal;
+    font-size: 7pt;
+    line-height: $line-height;
+    text-indent: 0;
+    text-transform: uppercase;
 }
 
 hr {
