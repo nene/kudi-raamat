@@ -30,14 +30,14 @@ $margin-inner: $margin-horizontal; // For visual testing let both margins be the
     margin-left: $margin-inner;
 }
 
-$font-size: 9.5pt;
-$line-height: 1.4 * $font-size;
+$font-size: 10pt;
+$line-height: 1.6 * $font-size;
 $text-indent: 1.5 * $font-size;
 
 html {
     font-family: "Iowan Old Style";
     font-size: $font-size;
-    line-height: 1.4;
+    line-height: 1.6;
 }
 
 p + h2 {
@@ -45,9 +45,9 @@ p + h2 {
 }
 
 h2 {
-    // The page has 36 lines in total,
-    // place the heading one line above the middle
-    padding-top: 13 * $line-height;
+    // With line-height 1.6 and 10pt font the page has 30 lines in total,
+    // start the text at 1/3 page height
+    padding-top: 10 * $line-height;
     margin-top: 0;
     margin-bottom: $line-height;
     font-weight: normal;
