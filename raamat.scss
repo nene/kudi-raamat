@@ -53,6 +53,7 @@ h2 {
     font-weight: normal;
     font-size: 1em;
     text-transform: uppercase;
+    text-align: center;
 }
 
 p {
@@ -76,12 +77,14 @@ p.poem {
 blockquote {
     font-style: italic;
     margin-top: $line-height;
-    margin-bottom: $line-height;
-    margin-left: $text-indent;
+    margin-bottom: $line-height*1.5;
+    margin-left: 0;
+    position: relative;
+    top: $line-height * 0.5;
 }
 
 blockquote p + p {
-    margin-top: $line-height;
+    margin-top: $line-height*0.5;
     font-style: normal;
     font-size: 7pt;
     line-height: $line-height;
