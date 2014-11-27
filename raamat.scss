@@ -40,6 +40,49 @@ html {
     line-height: 1.6;
 }
 
+@page header {
+    @bottom {
+        content: none;
+    }
+}
+
+header {
+    page: header;
+
+    h1 {
+        text-transform: uppercase;
+        margin-top: 6em;
+        text-align: center;
+        font-size: 32pt;
+        font-weight: 200;
+        margin-bottom: 0;
+    }
+    p, p+p {
+        text-indent: 0;
+        text-align: center;
+        margin: 0;
+    }
+    .author {
+        line-height: 1.6 * 32pt;
+        font-size: 14pt;
+    }
+    .photos {
+        line-height: 1.6 * 32pt;
+        font-size: 7.73pt;
+        text-transform: uppercase;
+        position: relative;
+        top: -(1.6 * 32pt / 2);
+    }
+    .date {
+        position: absolute;
+        font-size: 7.73pt;
+        text-transform: uppercase;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+}
+
 p + h2 {
     page-break-before: always;
 }
