@@ -72,6 +72,7 @@ p.poem {
     margin: $line-height 0;
     text-indent: 0;
     margin-left: $text-indent;
+    page-break-inside: avoid;
 }
 
 blockquote {
