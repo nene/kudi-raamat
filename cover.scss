@@ -1,0 +1,71 @@
+$bleed: 0pt; // Set to 9pt for final print; Set to 0 for visual testing.
+$safety-margin: 18pt;
+$spine: 22pt;
+
+@page {
+    size: (706pt + 2*($bleed + $safety-margin)) (540pt + 2*($bleed + $safety-margin));
+    margin: $bleed + $safety-margin;
+
+    background: url(img/taiuslik-lugu.jpg) no-repeat;
+    background-size: cover;
+}
+
+$font-size: 10pt;
+$line-height: 1.6 * $font-size;
+
+html {
+    font-family: "Iowan Old Style";
+    font-size: $font-size;
+    line-height: 1.6;
+    color: white;
+}
+
+header {
+    width: (706pt - $spine) / 2 - $safety-margin;
+    height: 540pt;
+    float: right;
+    border-left: $spine solid rgba(0,0,0, 1);
+    padding-left: $safety-margin;
+    text-align: center;
+    $scale: 1.5;
+
+    h1 {
+        font-family: "Iowan Old Style Titling";
+        text-transform: uppercase;
+        margin-top: 2.2em;
+        text-align: center;
+        font-size: 32pt*$scale;
+        font-weight: 200;
+        margin-bottom: 0;
+        text-shadow: 2pt 2pt 0 red;
+        .word1 {
+            font-size: 34.7pt*$scale;
+            u {
+                visibility: hidden;
+            }
+        }
+        .word3 {
+            font-size: 26.7pt*$scale;
+        }
+    }
+    .author {
+        margin: 0;
+        line-height: 1.6 * 32pt*$scale;
+        font-size: 14pt*$scale;
+    }
+}
+
+footer {
+    width: (706pt - $spine) / 2;
+    height: 540pt;
+    position: relative;
+    text-align: center;
+    .date {
+        position: absolute;
+        font-size: 7.73pt;
+        text-transform: uppercase;
+        bottom: 80pt;
+        left: 0;
+        right: 0;
+    }
+}
