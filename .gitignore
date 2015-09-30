@@ -2,4 +2,5 @@
 *.css
 *.sublime-workspace
 node_modules/
+img/
 
