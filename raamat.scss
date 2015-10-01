@@ -113,6 +113,7 @@ p {
     margin: 0;
     text-align: justify;
     hyphens: auto;
+    prince-hyphenate-patterns: url(hyphenation.dic);
     orphans: 1;
     widows: 1;
 }
