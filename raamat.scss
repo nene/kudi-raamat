@@ -76,12 +76,17 @@ header {
         line-height: 1.6 * 32pt;
         font-size: 14pt;
     }
-    .photos {
+    .photos, .editor {
         line-height: 1.6 * 32pt;
         font-size: 7.73pt;
         text-transform: uppercase;
         position: relative;
+    }
+    .photos {
         top: -(1.6 * 32pt / 2);
+    }
+    .editor {
+        top: -(1.6 * 32pt);
     }
     .date {
         position: absolute;
