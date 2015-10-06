@@ -4,6 +4,7 @@
   "private": true,
   "devDependencies": {
     "gulp": "^3.8.8",
-    "gulp-sass": "^1.0.0"
+    "gulp-sass": "^1.0.0",
+    "sync-request": "^2.0.1"
   }
 }
