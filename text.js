@@ -28,7 +28,7 @@ uniqWords.sort(function(a, b) {
 });
 
 var longWords = uniqWords.filter(function(w) {
-    return w.length === 8;
+    return w.length === 7;
 }).reverse();
 
 // console.log(words.length);
@@ -46,8 +46,8 @@ longWords.forEach(function(word, i) {
         console.log("FAILED TO HYPHENATE: " + word);
     }
 
-    if (i % 25 === 0) {
-        sleep.sleep(5);
+    if (i % 50 === 0) {
+        sleep.sleep(3);
     }
 });
 
