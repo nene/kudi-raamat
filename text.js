@@ -43,7 +43,7 @@ longWords.forEach(function(word, i) {
         console.log("." + hyphenated.replace(/-/g, "1") + ".")
     }
     else {
-        console.log("FAILED TO HYPHENATE: " + word);
+        // console.log("FAILED TO HYPHENATE: " + word);
     }
 
     if (i % 50 === 0) {
