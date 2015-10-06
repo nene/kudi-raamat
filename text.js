@@ -1,5 +1,6 @@
 var fs = require('fs');
 var request = require('sync-request');
+var sleep = require('sleep');
 
 var text = fs.readFileSync('/dev/stdin').toString();
 
@@ -27,14 +28,14 @@ uniqWords.sort(function(a, b) {
 });
 
 var longWords = uniqWords.filter(function(w) {
-    return w.length === 9;
+    return w.length === 8;
 }).reverse();
 
 // console.log(words.length);
 // console.log(uniqWords.length);
 // console.log(longWords.length);
 
-longWords.forEach(function(word) {
+longWords.forEach(function(word, i) {
     var res = request('GET', 'http://www.filosoft.ee/hyph_et/hyph.cgi?word='+encodeURIComponent(word));
     var hyphenated = res.getBody("utf-8").match(/<strong>S&otilde;na poolitatakse:<\/strong><br>(.*?)<br><br>/)[1];
 
@@ -43,6 +44,10 @@ longWords.forEach(function(word) {
     }
     else {
         console.log("FAILED TO HYPHENATE: " + word);
+    }
+
+    if (i % 25 === 0) {
+        sleep.sleep(5);
     }
 });
 
