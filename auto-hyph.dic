@@ -4293,7 +4293,6 @@ FAILED TO HYPHENATE: nurtsus
 .Vaa1da1ke.
 .pi1da1sid.
 .Näi1teks.
-FAILED TO HYPHENATE: Pauline
 .kii1re1te.
 .teh1tult.
 .kuu1ke1se.
@@ -4350,7 +4349,6 @@ FAILED TO HYPHENATE: Pauline
 .kä1he1dal.
 .soo1last.
 .kus1ki1le.
-FAILED TO HYPHENATE: tsõõris
 .küm1ne1le.
 .leid1sid.
 .su1kad1ki.
@@ -4420,7 +4418,7 @@ FAILED TO HYPHENATE: tsõõris
 .lo1jus1te.
 .pü1si1sid.
 .en1di1sed.
-FAILED TO HYPHENATE: pastlid
+.past1lid.
 .Ük1si1kud.
 .rop1si1ma.
 .jook1sis.
@@ -4544,7 +4542,7 @@ FAILED TO HYPHENATE: pastlid
 .kuu1lis.
 .pi1si1ke.
 .au1gust.
-FAILED TO HYPHENATE: noitas
+.noi1tas.
 .tüd1ruk.
 .te1ge1ma.
 .jät1tes.
@@ -4588,7 +4586,7 @@ FAILED TO HYPHENATE: noitas
 .ku1mast.
 .hin1ges.
 .vee1res.
-FAILED TO HYPHENATE: tüdrik
+.tüd1rik.
 .saa1dik.
 .kõr1bes.
 .Kõi1gil.
@@ -4665,7 +4663,6 @@ FAILED TO HYPHENATE: tüdrik
 .tu1lu1ke.
 .lao1tus.
 .lei1tud.
-FAILED TO HYPHENATE: viiest
 .sel1jal.
 .haa1ras.
 .pae1lad.
@@ -4815,7 +4812,7 @@ FAILED TO HYPHENATE: viiest
 .nii1pea.
 .liht1sa.
 .ko1gu1ma.
-FAILED TO HYPHENATE: Ööseks
+.Öö1seks.
 .laia1li.
 .kae1vul.
 .siis1ki.
@@ -4869,7 +4866,6 @@ FAILED TO HYPHENATE: Ööseks
 .pluu1si.
 .koh1tas.
 .en1dalt.
-FAILED TO HYPHENATE: Tsõõri
 .sil1mad.
 .hõi1kas.
 .tin1gis.
@@ -4978,7 +4974,6 @@ FAILED TO HYPHENATE: Tsõõri
 .nart1su.
 .teh1tud.
 .tul1vil.
-FAILED TO HYPHENATE: frentš
 .voo1dis.
 .täh1tis.
 .ai1taks.
@@ -5056,7 +5051,6 @@ FAILED TO HYPHENATE: frentš
 .hin1gav.
 .tea1dis.
 .ai1ma1ma.
-FAILED TO HYPHENATE: liialt
 .nahk1ki.
 .pää1ses.
 .tüü1ris.
@@ -5077,7 +5071,7 @@ FAILED TO HYPHENATE: liialt
 .ha1ka1ta.
 .me1re1ga.
 .poi1sil.
-FAILED TO HYPHENATE: ööseks
+.öö1seks.
 .pee1tud.
 .tön1nis.
 .seo1tud.
@@ -5092,7 +5086,6 @@ FAILED TO HYPHENATE: ööseks
 .ha1ka1ti.
 .mak1sis.
 .öi1se1le.
-FAILED TO HYPHENATE: tsõõri
 .pi1da1ma.
 .sü1da1me.
 .üks1nes.
@@ -5144,7 +5137,7 @@ FAILED TO HYPHENATE: tsõõri
 .en1nast.
 .ko1ma1ke.
 .kat1sus.
-FAILED TO HYPHENATE: sõrmil
+.sõr1mil.
 .kais1su.
 .kin1del.
 .Siis1ki.
@@ -5202,7 +5195,6 @@ FAILED TO HYPHENATE: sõrmil
 .Kap1ten.
 .ko1ha1ma.
 .vii1bis.
-FAILED TO HYPHENATE: taiest
 .lõk1ked.
 .kal1jud.
 .kar1tes.
@@ -5341,7 +5333,6 @@ FAILED TO HYPHENATE: taiest
 .pa1ra1ja.
 .ka1du1ma.
 .ül1last.
-FAILED TO HYPHENATE: Elenor
 .pil1did.
 .met1sas.
 .loe1tud.
@@ -5377,13 +5368,11 @@ FAILED TO HYPHENATE: Elenor
 .jää1des.
 .värs1ke.
 .ula1tas.
-FAILED TO HYPHENATE: Maaria
 .jät1tis.
 .pii1gas.
 .uh1kest.
 .hoi1tud.
 .ära1tas.
-FAILED TO HYPHENATE: Prints
 .võõ1ras.
 .är1ka1ma.
 .saa1dan.
@@ -5513,7 +5502,6 @@ FAILED TO HYPHENATE: Prints
 .Te1ma1gi.
 .suu1rim.
 .pil1las.
-FAILED TO HYPHENATE: Järvet
 .Ma1riel.
 .min1gil.
 .vor1mus.
@@ -5530,7 +5518,7 @@ FAILED TO HYPHENATE: Järvet
 .vi1ha1ne.
 .us1ku1ma.
 .ju1huks.
-FAILED TO HYPHENATE: sukman
+.suk1man.
 .seis1ta.
 .pi1me1si.
 .kau1nis.
@@ -5575,7 +5563,6 @@ FAILED TO HYPHENATE: sukman
 .mee1led.
 .mil1les.
 .or1ja1na.
-FAILED TO HYPHENATE: kauaks
 .ser1vas.
 .val1gus.
 .mõis1ta.
@@ -5640,12 +5627,10 @@ FAILED TO HYPHENATE: kauaks
 .ala1tes.
 .pea1des.
 .ilu1sat.
-FAILED TO HYPHENATE: krooks
 .ehi1tab.
 .pi1se1ma.
 .lä1he1me.
 .meet1ri.
-FAILED TO HYPHENATE: prints
 .kos1tuv.
 .juh1tus.
 .kä1rast.
@@ -5687,7 +5672,7 @@ FAILED TO HYPHENATE: prints
 .ke1na1ke.
 .löö1nud.
 .prae1gu.
-FAILED TO HYPHENATE: Murano
+.Mu1ra1no.
 .Võõ1ras.
 .va1ju1da.
 .rän1dav.
@@ -5722,7 +5707,6 @@ FAILED TO HYPHENATE: Murano
 .poo1lik.
 .käi1sel.
 .kee1lab.
-FAILED TO HYPHENATE: äärest
 .ah1nest.
 .kõr1val.
 .tul1nud.
@@ -5733,7 +5717,7 @@ FAILED TO HYPHENATE: äärest
 .või1nud.
 .läk1sid.
 .Kü1be1ke.
-FAILED TO HYPHENATE: käpuke
+.kä1pu1ke.
 .li1saks.
 .plat1si.
 .jää1nud.
@@ -5744,7 +5728,6 @@ FAILED TO HYPHENATE: käpuke
 .hõl1jus.
 .aas1tal.
 .vi1sa1ta.
-FAILED TO HYPHENATE: laiast
 .kom1bel.
 .Ni1melt.
 .puh1kas.
@@ -5809,13 +5792,9 @@ FAILED TO HYPHENATE: laiast
 .lär1mi.
 .asu1da.
 .võt1ma.
-FAILED TO HYPHENATE: teoks
-FAILED TO HYPHENATE: seast
-FAILED TO HYPHENATE: ühest
 .töö1ta.
 .Nä1hes.
 .pei1tu.
-FAILED TO HYPHENATE: tuult
 .tüh1ja.
 .met1sa.
 .roh1tu.
@@ -5830,9 +5809,7 @@ FAILED TO HYPHENATE: tuult
 .var1ju.
 .kul1la.
 .paa1di.
-FAILED TO HYPHENATE: suurt
 .pi1did.
-FAILED TO HYPHENATE: ajast
 .poe1gi.
 .nä1gin.
 .kan1ge.
@@ -5840,7 +5817,6 @@ FAILED TO HYPHENATE: ajast
 .väi1ke.
 .ja1gub.
 .tah1ta.
-FAILED TO HYPHENATE: looks
 .ta1sub.
 .Pii1ga.
 .ema1le.
@@ -5857,13 +5833,9 @@ FAILED TO HYPHENATE: looks
 .lau1pa.
 .ku1mab.
 .tuk1ka.
-FAILED TO HYPHENATE: Kussa
 .va1nem.
 .kas1te.
 .luh1ta.
-FAILED TO HYPHENATE: ootad
-FAILED TO HYPHENATE: triip
-FAILED TO HYPHENATE: sealt
 .kõi1ki.
 .kaa1me.
 .tõl1da.
@@ -5890,22 +5862,17 @@ FAILED TO HYPHENATE: sealt
 .kät1ki.
 .mul1le.
 .ki1har.
-FAILED TO HYPHENATE: ootas
 .hal1ba.
 .kal1li.
 .tüt1re.
-FAILED TO HYPHENATE: üheks
 .jal1gu.
 .jä1rel.
 .kuu1le.
 .ta1kus.
-FAILED TO HYPHENATE: väärt
-FAILED TO HYPHENATE: Poiss
 .kõl1ba.
 .lä1hed.
 .Lee1be.
 .abi1ga.
-FAILED TO HYPHENATE: Oleks
 .loo1ma.
 .ju1tud.
 .ole1me.
@@ -5936,24 +5903,18 @@ FAILED TO HYPHENATE: Oleks
 .kan1na.
 .Ome1ti.
 .tei1si.
-FAILED TO HYPHENATE: heaks
 .mõõ1ka.
-FAILED TO HYPHENATE: omaks
 .nen1de.
 .Nai1se.
 .os1kab.
 .hal1ja.
-FAILED TO HYPHENATE: vöölt
 .mõõ1ga.
 .öös1se.
-FAILED TO HYPHENATE: soost
 .and1ma.
 .saa1gu.
 .ome1ti.
-FAILED TO HYPHENATE: ühist
 .näi1ta.
 .maa1le.
-FAILED TO HYPHENATE: leiab
 .vär1vi.
 .pam1bu.
 .ka1dus.
@@ -5962,7 +5923,6 @@ FAILED TO HYPHENATE: leiab
 .lag1le.
 .ku1lus.
 .me1rel.
-FAILED TO HYPHENATE: hääks
 .näk1ku.
 .las1te.
 .udu1ga.
@@ -5970,7 +5930,6 @@ FAILED TO HYPHENATE: hääks
 .mei1le.
 .võ1lur.
 .puu1du.
-FAILED TO HYPHENATE: jaoks
 .tor1ni.
 .po1jad.
 .ine1tu.
@@ -5994,7 +5953,6 @@ FAILED TO HYPHENATE: jaoks
 .los1si.
 .nai1se.
 .daa1me.
-FAILED TO HYPHENATE: naist
 .rän1ga.
 .kar1va.
 .tän1na.
@@ -6005,7 +5963,6 @@ FAILED TO HYPHENATE: naist
 .la1mas.
 .lei1ti.
 .isa1tu.
-FAILED TO HYPHENATE: vääks
 .Pa1nin.
 .kät1te.
 .nai1ne.
@@ -6030,13 +5987,11 @@ FAILED TO HYPHENATE: vääks
 .sui1sa.
 .te1gid.
 .ehk1ki.
-FAILED TO HYPHENATE: trepp
 .õe1lus.
 .pa1kun.
 .kau1ni.
 .sõ1nad.
 .sor1ti.
-FAILED TO HYPHENATE: toalt
 .ot1sin.
 .Su1kad.
 .su1rus.
@@ -6049,7 +6004,6 @@ FAILED TO HYPHENATE: toalt
 .Mõ1ned.
 .Ise1gi.
 .Nai1ne.
-FAILED TO HYPHENATE: Ühelt
 .la1sid.
 .hel1la.
 .si1dus.
@@ -6072,7 +6026,6 @@ FAILED TO HYPHENATE: Ühelt
 .nii1gi.
 .sõõ1mu.
 .pai1su.
-FAILED TO HYPHENATE: viiks
 .hau1da.
 .mõ1rul.
 .pa1ber.
@@ -6081,7 +6034,6 @@ FAILED TO HYPHENATE: viiks
 .la1seb.
 .sei1na.
 .saa1pa.
-FAILED TO HYPHENATE: pruut
 .saa1ma.
 .ha1kul.
 .sil1ma.
@@ -6096,12 +6048,10 @@ FAILED TO HYPHENATE: pruut
 .ta1han.
 .kir1ju.
 .ise1gi.
-FAILED TO HYPHENATE: õlast
 .udu1na.
 .või1te.
 .nii1ta.
 .ra1has.
-FAILED TO HYPHENATE: riiet
 .küm1me.
 .min1gi.
 .sul1le.
@@ -6116,7 +6066,6 @@ FAILED TO HYPHENATE: riiet
 .tui1su.
 .käs1ke.
 .oh1jes.
-FAILED TO HYPHENATE: piits
 .rin1de.
 .ui1tas.
 .luk1ku.
@@ -6150,7 +6099,6 @@ FAILED TO HYPHENATE: piits
 .pe1res.
 .õli1ga.
 .sõt1ta.
-FAILED TO HYPHENATE: pealt
 .vii1ma.
 .van1gi.
 .va1nim.
@@ -6162,7 +6110,6 @@ FAILED TO HYPHENATE: pealt
 .jak1su.
 .söö1ki.
 .läh1me.
-FAILED TO HYPHENATE: peast
 .rah1va.
 .nöö1bi.
 .sek1ka.
@@ -6175,7 +6122,6 @@ FAILED TO HYPHENATE: peast
 .tor1me.
 .sil1la.
 .lae1vu.
-FAILED TO HYPHENATE: emaks
 .kee1ra.
 .Tu1leb.
 .kar1ge.
@@ -6190,17 +6136,14 @@ FAILED TO HYPHENATE: emaks
 .riu1ka.
 .põh1ja.
 .leh1ma.
-FAILED TO HYPHENATE: hoiab
 .ei1ras.
 .sa1sis.
 .lu1ges.
 .üks1ki.
 .või1du.
-FAILED TO HYPHENATE: jääks
 .haa1re.
 .as1jad.
 .hul1gu.
-FAILED TO HYPHENATE: ääres
 .lõk1ke.
 .si1det.
 .ema1ga.
@@ -6212,7 +6155,6 @@ FAILED TO HYPHENATE: ääres
 .sam1me.
 .Jaa1ni.
 .lu1ban.
-FAILED TO HYPHENATE: veest
 .tum1ma.
 .mär1ja.
 .jal1ga.
@@ -6222,7 +6164,6 @@ FAILED TO HYPHENATE: veest
 .mal1be.
 .kün1ni.
 .Lä1him.
-FAILED TO HYPHENATE: kiirt
 .sa1das.
 .kos1ta.
 .lah1ke.
@@ -6232,7 +6173,6 @@ FAILED TO HYPHENATE: kiirt
 .nä1riv.
 .tä1nan.
 .Ala1ti.
-FAILED TO HYPHENATE: suund
 .os1tis.
 .nä1pus.
 .ruk1ki.
@@ -6245,7 +6185,6 @@ FAILED TO HYPHENATE: suund
 .ot1sas.
 .Mu1red.
 .Taa1di.
-FAILED TO HYPHENATE: teeks
 .Ai1täh.
 .nõn1da.
 .ol1nud.
@@ -6256,7 +6195,6 @@ FAILED TO HYPHENATE: teeks
 .kar1ta.
 .um1bes.
 .sa1lus.
-FAILED TO HYPHENATE: ootab
 .pük1se.
 .jät1ta.
 .ot1siv.
@@ -6280,12 +6218,9 @@ FAILED TO HYPHENATE: ootab
 .ve1dis.
 .ase1me.
 .ke1vad.
-FAILED TO HYPHENATE: sooks
 .õue1le.
 .rin1gi.
 .tõt1tu.
-FAILED TO HYPHENATE: avast
-FAILED TO HYPHENATE: igast
 .Tu1led.
 .ai1tan.
 .õi1gel.
@@ -6303,13 +6238,11 @@ FAILED TO HYPHENATE: igast
 .tah1te.
 .paa1re.
 .pe1sed.
-FAILED TO HYPHENATE: neiul
 .puu1de.
 .pär1li.
 .Kü1las.
 .soo1la.
 .pa1ged.
-FAILED TO HYPHENATE: ojast
 .eda1si.
 .pu1hus.
 .tae1va.
@@ -6320,11 +6253,9 @@ FAILED TO HYPHENATE: ojast
 .Ju1tud.
 .Ar1mas.
 .põl1du.
-FAILED TO HYPHENATE: ajalt
 .Tal1le.
 .Ko1dus.
 .Saa1li.
-FAILED TO HYPHENATE: Mailt
 .vih1ma.
 .ok1sad.
 .Tub1li.
@@ -6357,7 +6288,6 @@ FAILED TO HYPHENATE: Mailt
 .põs1ke.
 .lak1ka.
 .jõu1du.
-FAILED TO HYPHENATE: kauem
 .käi1ma.
 .häs1ti.
 .mõ1nel.
@@ -6370,7 +6300,6 @@ FAILED TO HYPHENATE: kauem
 .pä1ris.
 .ker1ra.
 .aas1ta.
-FAILED TO HYPHENATE: oleks
 .sil1mi.
 .tal1lu.
 .vei1di.
@@ -6384,7 +6313,6 @@ FAILED TO HYPHENATE: oleks
 .kor1di.
 .tun1ne.
 .soo1ja.
-FAILED TO HYPHENATE: Klaas
 .mär1ka.
 .päe1vi.
 .puh1ta.
@@ -6402,7 +6330,6 @@ FAILED TO HYPHENATE: Klaas
 .taa1ti.
 .kä1sib.
 .lii1ga.
-FAILED TO HYPHENATE: eluks
 .ret1ki.
 .lin1de.
 .il1mas.
@@ -6414,60 +6341,46 @@ FAILED TO HYPHENATE: eluks
 .si1nul.
 .vä1sis.
 .an1tud.
-FAILED TO HYPHENATE: suust
 .sir1gu.
 .jäe1ta.
 .muu1gi.
 .tea1da.
 .hul1ka.
-FAILED TO HYPHENATE: uuris
 .tül1li.
-FAILED TO HYPHENATE: Unelm
 .Ja1lad.
 .jõu1da.
 .ea1les.
 .ar1vas.
 .hul1ga.
 .vaa1se.
-FAILED TO HYPHENATE: võiks
 .müü1ma.
 .pa1lus.
 .Tõu1ku.
 .suu1da.
-FAILED TO HYPHENATE: saaks
 .lee1gi.
 .Te1mas.
-FAILED TO HYPHENATE: meelt
 .väi1ta.
 .läi1gi.
 .su1kis.
 .En1näe.
-FAILED TO HYPHENATE: tirts
 .pu1ges.
 .sa1dam.
-FAILED TO HYPHENATE: klaas
 .sa1tub.
 .poe1ga.
 .sae1ti.
 .te1mas.
 .kat1ki.
 .tak1ti.
-FAILED TO HYPHENATE: õuest
 .pea1me.
 .kat1ma.
 .pul1ma.
-FAILED TO HYPHENATE: eemal
 .tul1la.
 .ko1get.
 .ko1gus.
 .poo1le.
-FAILED TO HYPHENATE: ajaks
 .ruu1mi.
-FAILED TO HYPHENATE: köied
 .ot1sid.
-FAILED TO HYPHENATE: puust
 .as1tus.
-FAILED TO HYPHENATE: pääle
 .ae1tud.
 .kau1pa.
 .Os1kad.
@@ -6487,14 +6400,11 @@ FAILED TO HYPHENATE: pääle
 .ene1se.
 .kok1ku.
 .Nen1de.
-FAILED TO HYPHENATE: alust
 .ta1hab.
 .tee1le.
 .Kee1gi.
 .See1ga.
 .kah1ju.
-FAILED TO HYPHENATE: verst
-FAILED TO HYPHENATE: tants
 .lä1him.
 .Va1nus.
 .vai1ki.
@@ -6505,7 +6415,6 @@ FAILED TO HYPHENATE: tants
 .ot1sis.
 .lau1sa.
 .pau1na.
-FAILED TO HYPHENATE: teist
 .lai1ne.
 .nä1hes.
 .mat1ma.
@@ -6514,7 +6423,6 @@ FAILED TO HYPHENATE: teist
 .kot1ti.
 .va1hel.
 .ko1bas.
-FAILED TO HYPHENATE: toast
 .mus1ta.
 .töö1le.
 .peo1ga.
@@ -6530,33 +6438,25 @@ FAILED TO HYPHENATE: toast
 .võt1ta.
 .sea1da.
 .mit1te.
-FAILED TO HYPHENATE: Kalts
 .jõk1ke.
 .ala1ti.
 .õie1ti.
 .anu1ma.
-FAILED TO HYPHENATE: poiss
 .is1tub.
 .pa1pad.
 .pae1la.
 .sel1ga.
-FAILED TO HYPHENATE: neilt
 .vee1ta.
 .tu1lid.
 .va1lid.
-FAILED TO HYPHENATE: ootus
-FAILED TO HYPHENATE: Võiks
 .mõ1ned.
 .sal1li.
 .pi1sut.
-FAILED TO HYPHENATE: meist
 .pae1lu.
 .Mõn1da.
 .nõu1tu.
 .al1les.
-FAILED TO HYPHENATE: peaks
 .har1va.
-FAILED TO HYPHENATE: loits
 .ula1ta.
 .köi1da.
 .hoi1da.
@@ -6566,7 +6466,6 @@ FAILED TO HYPHENATE: loits
 .sü1gis.
 .Kui1gi.
 .Gil1di.
-FAILED TO HYPHENATE: õhuks
 .hoo1li.
 .teh1ta.
 .abi1tu.
@@ -6583,22 +6482,16 @@ FAILED TO HYPHENATE: õhuks
 .sü1les.
 .kor1gi.
 .ava1da.
-FAILED TO HYPHENATE: lonks
 .ka1pis.
 .las1ti.
 .su1las.
 .ke1set.
-FAILED TO HYPHENATE: tööst
 .toa1ke.
 .ma1jal.
 .lil1le.
-FAILED TO HYPHENATE: õlult
-FAILED TO HYPHENATE: näost
-FAILED TO HYPHENATE: lüües
 .kas1se.
 .Vae1ne.
 .hä1vib.
-FAILED TO HYPHENATE: näeks
 .min1di.
 .esi1le.
 .huu1pi.
@@ -6609,9 +6502,6 @@ FAILED TO HYPHENATE: näeks
 .joo1du.
 .poi1si.
 .ak1nad.
-FAILED TO HYPHENATE: jõuab
-FAILED TO HYPHENATE: juues
-FAILED TO HYPHENATE: maalt
 .kõr1ge.
 .kõi1ke.
 .när1ve.
@@ -6632,7 +6522,6 @@ FAILED TO HYPHENATE: maalt
 .oli1gi.
 .ko1hal.
 .va1rul.
-FAILED TO HYPHENATE: praks
 .pee1ne.
 .ol1les.
 .lii1ki.
@@ -6658,7 +6547,6 @@ FAILED TO HYPHENATE: praks
 .kan1da.
 .kal1du.
 .Ava1ma.
-FAILED TO HYPHENATE: uuest
 .lo1hed.
 .kin1ga.
 .löö1ma.
@@ -6677,11 +6565,9 @@ FAILED TO HYPHENATE: uuest
 .tü1tar.
 .rau1ka.
 .üht1ki.
-FAILED TO HYPHENATE: Veuve
 .päe1va.
 .kül1ma.
 .sõ1nas.
-FAILED TO HYPHENATE: näolt
 .va1jus.
 .tä1nas.
 .sep1pa.
@@ -6689,7 +6575,6 @@ FAILED TO HYPHENATE: näolt
 .kel1la.
 .il1mub.
 .min1na.
-FAILED TO HYPHENATE: jõust
 .Tei1ne.
 .kau1ge.
 .ter1ve.
@@ -6705,7 +6590,6 @@ FAILED TO HYPHENATE: jõust
 .Tih1ti.
 .pan1ge.
 .ruu1ge.
-FAILED TO HYPHENATE: omast
 .rum1mi.
 .ot1sem.
 .öi1ses.
@@ -6736,7 +6620,6 @@ FAILED TO HYPHENATE: omast
 .pin1du.
 .püü1da.
 .het1ke.
-FAILED TO HYPHENATE: klaar
 .is1tus.
 .pih1ku.
 .sel1le.
@@ -6744,7 +6627,6 @@ FAILED TO HYPHENATE: klaar
 .vil1tu.
 .tun1di.
 .lõi1vu.
-FAILED TO HYPHENATE: tööks
 .si1lis.
 .Ees1ti.
 .õla1le.
@@ -6755,7 +6637,6 @@ FAILED TO HYPHENATE: tööks
 .töö1ga.
 .är1kas.
 .jõu1ka.
-FAILED TO HYPHENATE: punkt
 .ai1nus.
 .õhu1ke.
 .lõ1pus.
@@ -6766,23 +6647,17 @@ FAILED TO HYPHENATE: punkt
 .ja1las.
 .muu1ta.
 .lo1bid.
-FAILED TO HYPHENATE: unest
 .hir1mu.
-FAILED TO HYPHENATE: käest
 .sa1mas.
 .pa1rem.
-FAILED TO HYPHENATE: poolt
 .mär1ku.
-FAILED TO HYPHENATE: komps
 .lak1ke.
-FAILED TO HYPHENATE: öösel
 .lei1da.
 .pad1ja.
 .mär1ke.
 .ole1ma.
 .und1ki.
 .Sel1le.
-FAILED TO HYPHENATE: neist
 .pu1hul.
 .see1gi.
 .ja1gus.
@@ -6792,7 +6667,6 @@ FAILED TO HYPHENATE: neist
 .mil1le.
 .ta1bas.
 .roo1sa.
-FAILED TO HYPHENATE: imeks
 .Pa1ni.
 .uk1se.
 .Ma1ri.
