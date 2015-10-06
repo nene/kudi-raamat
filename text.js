@@ -28,7 +28,7 @@ uniqWords.sort(function(a, b) {
 });
 
 var longWords = uniqWords.filter(function(w) {
-    return w.length === 7;
+    return w.length === 6;
 }).reverse();
 
 // console.log(words.length);
