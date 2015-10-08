@@ -170,6 +170,9 @@ hr {
 }
 
 @page empty {
+    @bottom {
+        content: none;
+    }
 }
 
 @page algus {
