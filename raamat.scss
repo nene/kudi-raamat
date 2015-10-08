@@ -1,4 +1,4 @@
-$bleed: 0; // Set to 14.4pt (5mm) for final print; Set to 0 for visual testing.
+$bleed: 14pt; // Set to 14pt (5mm) for final print; Set to 0 for visual testing.
 $safety-margin: 18pt;
 $safety-margin-inner: $safety-margin + 32pt; // Suggested: 0.8 - 1.5 cm extra (using 1.1 cm)
 $my-margin-vertical: 30pt;
@@ -6,8 +6,8 @@ $my-margin-horizontal: 20pt;
 
 $margin-vertical: $bleed + $safety-margin + $my-margin-vertical;
 $margin-horizontal: $bleed + $safety-margin + $my-margin-horizontal;
-//$margin-inner: $safety-margin-inner + $my-margin-horizontal; // For print
-$margin-inner: $margin-horizontal; // For visual testing let both margins be the same
+$margin-inner: $safety-margin-inner + $my-margin-horizontal; // For print
+//$margin-inner: $margin-horizontal; // For visual testing let both margins be the same
 
 @page {
     size: (257pt + $margin-horizontal + $margin-inner) (480pt + 2*$margin-vertical);
